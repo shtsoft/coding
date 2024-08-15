@@ -1,0 +1,3 @@
+[submodule "web/shtlay"]
+	path = web/shtlay
+	url = https://github.com/shtsoft/shtlay
