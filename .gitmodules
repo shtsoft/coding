@@ -1,3 +1,6 @@
 [submodule "web/shtlay"]
 	path = web/shtlay
 	url = https://github.com/shtsoft/shtlay
+[submodule "web/mtrack"]
+	path = web/mtrack
+	url = https://github.com/shtsoft/mtrack
