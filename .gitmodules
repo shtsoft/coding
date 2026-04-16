@@ -4,3 +4,6 @@
 [submodule "web/mtrack"]
 	path = web/mtrack
 	url = https://github.com/shtsoft/mtrack
+[submodule "parallelism/poolio"]
+	path = parallelism/poolio
+	url = https://github.com/shtsoft/poolio
