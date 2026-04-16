@@ -7,3 +7,6 @@
 [submodule "parallelism/poolio"]
 	path = parallelism/poolio
 	url = https://github.com/shtsoft/poolio
+[submodule "languages/rspl"]
+	path = languages/rspl
+	url = https://github.com/shtsoft/rspl
